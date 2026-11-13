@@ -17,7 +17,7 @@ Everything runs locally on your PC. Your camera, photos and faces never leave it
 
 ## Features
 
-- **Live Face Swap** on your webcam (or your phone's camera over Wi-Fi), with a preview window and a virtual camera for OBS, Zoom, Discord and similar apps
+- **Live Face Swap** on your webcam (or your phone's camera, see below), with a preview window and a virtual camera for OBS, Zoom, Discord and similar apps
 - **Full head mode** (optional): swaps the whole head, hair included
 - **Video Swap** and **Batch Process** for photos and video files
 - **Background changer**: blur, solid color or your own image
@@ -46,6 +46,24 @@ For those, use the [web edition](https://altface.lovable.app) in Chrome or Edge.
 4. On first launch the app downloads the face models, then opens in your browser.
 
 To update, run the newer installer over the old one. Your faces, captures and settings are kept.
+
+## Use your phone as the camera
+
+Your phone's camera can be the input, with the swap running on your PC. You can also control the app from your phone.
+It connects through [Tailscale](https://tailscale.com) (free), a private network that only your own devices can join,
+so it works on home Wi-Fi or mobile data. Phones only share their camera over a secure (https) link, which is why a
+plain Wi-Fi address isn't enough.
+
+Click the **phone icon** in AltFace Desktop. The setup guide checks off each step:
+
+1. Install [Tailscale for Windows](https://tailscale.com/download/windows) on your PC and sign in.
+2. Click **Turn on phone access** in the guide. If Tailscale asks you to approve it once, the guide shows the link.
+3. Install Tailscale on your phone ([iPhone](https://apps.apple.com/app/tailscale/id1470499037) /
+   [Android](https://play.google.com/store/apps/details?id=com.tailscale.ipn)) and sign in with the **same account**.
+4. Scan the QR code, or type the `https://….ts.net` address shown into Safari or Chrome.
+5. Tap **📷 Use this phone's camera**.
+
+Only devices signed in to your Tailscale account can open it. You can turn it off from the same guide.
 
 ## Responsible use
 
