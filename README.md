@@ -10,6 +10,10 @@
   <a href="https://altface.lovable.app">Try the web edition</a>
 </p>
 
+<p align="center">
+  <img src="assets/live-swap.jpg" alt="AltFace Desktop swapping a face live on a webcam at 23 fps" width="100%">
+</p>
+
 ---
 
 This repository hosts the **Windows installers and release notes** for AltFace Desktop.
@@ -23,6 +27,22 @@ Everything runs locally on your PC. Your camera, photos and faces never leave it
 - **Background changer**: blur, solid color or your own image
 - **Faces library** with starter faces, plus per-face saved settings
 - Uses **two GPUs** when you have them; optional **NVIDIA TensorRT** for extra speed
+
+## Screenshots
+
+**One webcam, four faces.** Each swap runs live at 23–25 fps on the GPU, picked from the built-in starter faces
+(AI-generated people, not real ones):
+
+<img src="assets/four-faces.jpg" alt="The same webcam shot swapped to four different starter faces" width="100%">
+
+<table>
+  <tr>
+    <td width="38%" valign="top"><img src="assets/phone-setup.jpg" alt="Phone setup guide with five steps"><br>
+      <sub><b>Phone setup:</b> use your phone's camera, step by step.</sub></td>
+    <td valign="top"><img src="assets/settings.jpg" alt="Settings: camera, GPUs, OBS virtual camera, phone"><br>
+      <sub><b>Settings:</b> pick the camera, which GPU does what, and send the output to OBS, Zoom or Discord.</sub></td>
+  </tr>
+</table>
 
 ## Requirements
 
