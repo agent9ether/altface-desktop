@@ -10,6 +10,8 @@
   <a href="https://altface.lovable.app">Try the web edition</a>
 </p>
 
+<img width="1898" height="979" alt="image" src="https://github.com/user-attachments/assets/1907a9f8-856b-45ca-8682-10e8f0f0b6d6" />
+
 <p align="center">
   <img src="assets/live-swap.jpg" alt="AltFace Desktop swapping a face live on a webcam at 23 fps" width="100%">
 </p>
