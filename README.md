@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/agent9ether/altface-desktop/releases/latest"><b>⬇ Download the latest version</b></a>
   &nbsp;·&nbsp;
-  <a href="https://altface.lovable.app">Try the web edition</a>
+  <a href="https://altface.app">Try the web edition</a>
 </p>
 
 <img width="1898" height="979" alt="image" src="https://github.com/user-attachments/assets/1907a9f8-856b-45ca-8682-10e8f0f0b6d6" />
@@ -56,7 +56,7 @@ Everything runs locally on your PC. Your camera, photos and faces never leave it
 | Internet | Only for the first launch, to download the face models (about 1.8 GB) |
 
 AMD and Intel graphics, macOS and Linux aren't supported by the desktop app.
-For those, use the [web edition](https://altface.lovable.app) in Chrome or Edge.
+For those, use the [web edition](https://altface.app) in Chrome or Edge.
 
 ## Install
 
