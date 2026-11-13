@@ -10,12 +10,9 @@
   <a href="https://altface.app">Try the web edition</a>
 </p>
 
-<p align="center">
-  <sub>▶ <a href="assets/altface-desktop-demo.mp4"><b>Watch the 70-second demo</b></a>: live swap, faces library, virtual camera, phone camera and more.</sub>
-
 https://github.com/user-attachments/assets/bd4c91e7-13ce-4c51-aaa3-506d18013b20
 
-</p>
+<p align="center"><sub><b>70-second demo:</b> live swap, faces library, virtual camera, phone camera and more.</sub></p>
 
 <img width="1898" height="979" alt="image" src="https://github.com/user-attachments/assets/1907a9f8-856b-45ca-8682-10e8f0f0b6d6" />
 
