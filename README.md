@@ -12,7 +12,7 @@
 
 https://github.com/user-attachments/assets/61287431-563d-474e-9088-2181844cf651
 
-<p align="center"><sub><b>70-second demo:</b> live swap, faces library, virtual camera, phone camera and more.</sub></p>
+<p align="center"><sub><b>75-second demo:</b> live swap, faces library, virtual camera, phone camera and what's new in 1.0.3.</sub></p>
 
 <img width="1898" height="979" alt="image" src="https://github.com/user-attachments/assets/1907a9f8-856b-45ca-8682-10e8f0f0b6d6" />
 
