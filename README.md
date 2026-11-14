@@ -10,7 +10,7 @@
   <a href="https://altface.app">Try the web edition</a>
 </p>
 
-https://github.com/user-attachments/assets/bd4c91e7-13ce-4c51-aaa3-506d18013b20
+https://github.com/user-attachments/assets/61287431-563d-474e-9088-2181844cf651
 
 <p align="center"><sub><b>70-second demo:</b> live swap, faces library, virtual camera, phone camera and more.</sub></p>
 
